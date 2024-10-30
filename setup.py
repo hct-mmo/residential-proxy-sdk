@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="residential-proxy-sdk",
-    version="0.1.1",
+    version="0.1.4",
     description="A proxy SDK for managing rotating residential proxies in Vietnam",
     long_description=long_description,
     long_description_content_type="text/markdown",
